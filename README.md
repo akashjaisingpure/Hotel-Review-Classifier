@@ -1,2 +1,1 @@
-# Hotel-Review-Classifier
-A sample dataset which consists of 20,000 reviews and ratings for different hotels and  our goal was to examine how traveler's are communicating their positive and negative experiences in  online platforms. For staying in a specific hotel and major objective was what are the attributes that  traveler's are considering while selecting a hotel. With this manager can understand which elements  of their hotel influence more in forming a positive review or improves hotel brand image. Used NLP  techniques such tokenization and conversion text to vectors using TF-IDF.
+# Hotel-Review-Classifier-NLP
